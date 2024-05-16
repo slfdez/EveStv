@@ -978,6 +978,13 @@ color: #b08c3e;
     width: 100%;
     display: block;
 }
+
+.section-paddinggg {
+    padding: 34px 0;
+    clear: both;
+    width: 100%;
+    display: block;
+}
 .section-banner {
     padding: 200px 0 100px 0;
     clear: both;
